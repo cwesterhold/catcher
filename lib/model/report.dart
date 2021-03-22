@@ -33,6 +33,7 @@ class Report {
   /// (i.e. web platform), so this may be null.
   final File? screenshot;
 
+  //
   /// Creates report instance
   Report(
     this.error,
